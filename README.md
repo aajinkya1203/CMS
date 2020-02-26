@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="CMS Logo.png" width="320" alt="CMS Logo" />
+  <img src="CMS Logo.PNG" width="320" alt="CMS Logo" />
 </p>
 
 # CMS
