@@ -1,0 +1,4 @@
+Sada Dosa:40:
+Cheese Dosa:45:
+Masala Dosa:50:
+Mendu Wada:35:

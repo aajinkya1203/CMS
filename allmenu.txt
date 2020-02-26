@@ -1,0 +1,15 @@
+Sada Dosa:South Indian:
+Cheese Dosa:South Indian:
+Masala Dosa:South Indian:
+Mendu Wada:South Indian:
+Pav Bhaji:Mumbai Masala:
+Cheese Pav Bhaji:Mumbai Masala:
+Vada Pav:Mumbai Masala:
+Samosa Pav:Mumbai Masala:
+Punjabi Thali:MPSTME Special:
+Gujarati Thali:MPSTME Special:
+Softdrinks:Beverages:
+Tetrapack:Beverages:
+Mineral Water:Beverages:
+Water:Beverages:
+Dairy Milk:Chocolates:

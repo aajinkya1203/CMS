@@ -1,0 +1,4 @@
+Softdrinks(200 ml):25:
+Softdrinks(500 ml):50:	
+Tetrapack:20:		
+Mineral Water:20:	
