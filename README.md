@@ -1,3 +1,7 @@
+<p align="center">
+  ![CMS Logo](CMS logo.png)
+</p>
+
 # CMS
 CMS (Canteen Management System) is a console-based application that enhances the capabilities of the normal College Canteens.
 Our application provides with the basic ordering functionality wherein a student can order the food he wants, which will be displayed to the Canteen Vendor, while setting the time at which he wants. This way he can skip the queue and enjoy the break with his luscious meal!
