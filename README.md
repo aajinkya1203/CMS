@@ -1,5 +1,5 @@
 <p align="center">
-  ![CMS Logo](CMS logo.png)
+  <img src="CMS Logo.png" width="320" alt="CMS Logo" />
 </p>
 
 # CMS
